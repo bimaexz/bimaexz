@@ -1,6 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://bimaexz.github.io">Bima Laroi Bafih</a></h2>
 <p>I'm currently a Web Developer <strong><a href="https://andarukaryaproperti.com/">Andaru Karya</a></strong> and Listing Partner at <strong><a href="https://www.bitmart.com/">Bitmart</a></strong> based in 🌁 Indonesia. I am working on some side projects, learning about human nature, and trying to conquer the world.</p>
-<p><a href="https://bimaexz.github.io"><img src="https://img.shields.io/badge/-bimaexz.github.io-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://medium.com/@bima.laroibafih08"><img src="https://img.shields.io/badge/-@bima.laroibafih08-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com@bima.laroibafih08" alt="Medium Badge"></a> <a href="https://dev.to/bimaexz"><img src="https://img.shields.io/badge/-@bimaexz-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/bimaexz" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/	i1i26ozc75h7gwi5cd9aaige2"><img src="https://img.shields.io/badge/-@deathbathh-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
+<p><a href="https://bimaexz.github.io"><img src="https://img.shields.io/badge/-bimaexz.github.io-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://medium.com/@bima.laroibafih08"><img src="https://img.shields.io/badge/-@bima.laroibafih08-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com@bima.laroibafih08" alt="Medium Badge"></a> <a href="https://dev.to/bimaexz"><img src="https://img.shields.io/badge/-@bimaexz-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/bimaexz" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/	i1i26ozc75h7gwi5cd9aaige2"><img src="https://img.shields.io/badge/-@deathbathh-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a>
+<a href="https://www.linkedin.com/in/bima-laroibafih/"><img src="https://img.shields.io/badge/-@Bima-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/bima-laroibafih/" alt="LinkedIn Badge"></a></p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -9,6 +10,7 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/bimaexz">Github</a>.</li>
 <li>📙 Check out my <a href="https://bit.ly/Portofolio_BimaLaroiBafih">UI/UX Portfolio</a>.</li>
 <li>📙 Check out my <a href="https://bit.ly/BimaLaroiBafih_Portofolio">Video Editing Portfolio</a>.</li>
+  
 </ul>
 🚀 Some Tools I Use</h2>
 <p align="centre">

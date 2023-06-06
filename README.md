@@ -5,7 +5,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://andarukaryaproperti.com/">Andaru Karya Properti</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>🧐 Check out my <a href="https://www.holopin.io/@bimaexz#badges">Holopin Badges</a>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/bimaexz">Github</a>.</li>
 <li>📙 Check out my <a href="https://bit.ly/Portofolio_BimaLaroiBafih">UI/UX Portfolio</a>.</li>
 <li>📙 Check out my <a href="https://bit.ly/BimaLaroiBafih_Portofolio">Video Editing Portfolio</a>.</li>
